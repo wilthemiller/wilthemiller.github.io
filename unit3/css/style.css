@@ -1,9 +1,7 @@
-body { background-color:03005C; 
+body {background-color:#000070;
 }
 
-h1, p {
-	color:FFFFFF;
+h1, p {white
 }
-p {
-	font style:italic;
-}
+
+p{}
