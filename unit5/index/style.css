@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Girassol&display=swap);
+@import url(https://fonts.googleapis.com/css?family=lexend=exa&display=swap);
+body {background-color:#000070;
+	color: white;
+	font-family: 'Lexend Exa', sans-sarif;
+}
+
+h1{
+	color: white;
+
+	font-family: 'Girassol', cursive;
+
+}
+
+p{}
