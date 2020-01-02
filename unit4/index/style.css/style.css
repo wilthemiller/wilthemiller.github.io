@@ -1,11 +1,13 @@
 body {background-color:#000070;
 }
 @import url(https://fonts.googleapis.com/css?family=Girassol&display=swap);
-h1 {
-	white
+h1{
+	color: white
+
 	font-family: 'Girassol', cursive;
+
 }
-@import url(https://fonts.googleapis.com/css?family=Lexend+Exa&display=swap);
+@import url(https://fonts.googleapis.com/css?family=lexend=exa&display=swap);
 p{
 	font-family: 'Lexend Exa', sans-sarif;
 }
