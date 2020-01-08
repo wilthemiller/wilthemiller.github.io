@@ -5,6 +5,14 @@ body {background-color:#000070;
 	font-family: 'Lexend Exa', sans-sarif;
 }
 
+header {
+	background-color: #FFED74;
+}
+
+div{
+	background-color: #FFE2B8;
+}
+
 h1,h2 {
 	text-transform: uppercase;
 }
@@ -29,6 +37,7 @@ ul {
 }
 
 footer{
+	background-color: #FF957E;
 	text-align: center;
 	padding: 1em 0;
 }
