@@ -5,11 +5,30 @@ body {background-color:#000070;
 	font-family: 'Lexend Exa', sans-sarif;
 }
 
-h1{
+h1,h2 {
+	text-transform: uppercase;
+}
+
+h1 {
+	font-size: 2em;
 	color: white;
 
 	font-family: 'Girassol', cursive;
 
 }
 
-p{}
+h2 {
+	font-size: 2em;
+	color: white;
+
+	font-family: 'Girassol', cursive;
+}
+
+ul {
+	list-style: none;
+}
+
+footer{
+	text-align: center;
+	padding: 1em 0;
+}
