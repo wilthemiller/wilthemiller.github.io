@@ -5,11 +5,67 @@ body {background-color:#000070;
 	font-family: 'Lexend Exa', sans-sarif;
 }
 
-h1{
-	color: white;
+header {
+	
+}
+
+section{
+	
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0; 
+}
+
+h1,h2 {
+	
+}
+
+h1 {
+	
 
 	font-family: 'Girassol', cursive;
 
 }
 
-p{}
+h2 {
+	
+
+	font-family: 'Girassol', cursive;
+}
+
+ul {
+	list-style: none;
+}
+
+footer{
+	text-align: center;
+	padding: 1em 0;
+}
