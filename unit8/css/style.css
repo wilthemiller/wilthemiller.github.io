@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/css?family=Girassol&display=swap);
+@import url(https://fonts.googleapis.com/css?family=lexend=exa&display=swap);
+body {background-color:#000070;
+	color: white;
+	font-family: 'Lexend Exa', Girassol;
+}
+
+header {
+	text-align: center;
+	
+}
+
+section{
+	text-align: center;
+	
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0; 
+}
+
+h1,h2 {
+	
+}
+
+h1 {
+	
+
+	font-family: 'Girassol', cursive;
+
+}
+
+h2 {
+	
+
+	font-family: 'Girassol', cursive;
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+	text-align: center;
+}
+
+footer{
+	text-align: center;
+	padding: 1em 0;
+}
